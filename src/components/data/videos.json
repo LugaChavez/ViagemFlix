@@ -1,0 +1,47 @@
+{"categorias":[
+    {
+        "id":1 ,
+        "titulo": " Republica Dominicana",
+        "categoria": "CARIBE" ,
+        "imagen": "https://www.mapainteractivo.net/wp-content/uploads/Ver-el-mapa-de-Rep%C3%BAblica-Dominicana-por-satelite-imagen.gif",
+        "video": "https://www.youtube.com/embed/g__z1weRNgs" ,
+        "descripcion": "RELLENAR"
+
+    },
+    {   "id":2 ,
+        "titulo": "Mexico" ,
+        "categoria": "CARIBE",
+        "imagen":"https://elcaminomascorto.com/wp-content/uploads/mapa-riviera-maya-y-costa-maya.gif" ,
+        "video": "https://www.youtube.com/embed/GXgYDoabclY",
+        "descripcion": "RELLENAR"
+    },
+    {   "id": 3,
+        "titulo":"Patagonia Argentina" ,
+        "categoria": "PATAGONIA",
+        "imagen": "https://viajera-activa.com/wp-content/uploads/2014/06/ruta-40.jpg",
+        "video":"https://www.youtube.com/embed/NCQ_nxKZqcA" ,
+        "descripcion": "RELLENAR"
+    },
+    {   "id":4 ,
+        "titulo": "Patagonia Chilena",
+        "categoria": "PATAGONIA",
+        "imagen":"https://melimoyulodge.com/wp-content/uploads/2022/01/patagonia-map.png.webp" ,
+        "video": "https://www.youtube.com/embed/6_OFXBK37gs",
+        "descripcion": "RELLENAR"
+    },
+    {   "id": 5,
+        "titulo":"Rivera Francesa" ,
+        "categoria": "EUROPA",
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoya9Wa59c43uKJxhq4Pf-CPRj61hmIIboTtrQQIoKm7Ke8-0Gujb3UvU9fFtu8wveNT4HD6PnHwG4WWt67I93kIMIOCFJ7XffqanZiIb4ymA1Ekqb-cOnIKvx8dCtzA69qRvH3hp2Z-4/s1600/Dia01.jpg",
+        "video": "https://www.youtube.com/embed/5RYkCiIPvQ4",
+        "descripcion": "RELLENAR"
+    },
+    {   "id":6 ,
+        "titulo":"Mediterraneo",
+        "categoria": "EUROPA",
+        "imagen":"https://humanidades.com/wp-content/uploads/2018/10/mar-mediterraneo-mapa-mar-e1583089423860.jpg" ,
+        "video": "https://www.youtube.com/embed/p_oWuMduERo" ,
+        "descripcion": "RELLENAR"
+    }
+]
+}

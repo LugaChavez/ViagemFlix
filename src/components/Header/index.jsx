@@ -17,7 +17,7 @@ const HeaderEstilizado = styled.header`
     
     h1{
         margin-left:8px;
-        font-size:32px;
+        font-size:36px;
     }
 `
 

@@ -9,24 +9,26 @@ const NoEncontrado = styled.div`
     text-align:center;
     padding:5px;
 
-    p{
+    h2{
         color:#fc0303;
         filter: drop-shodow (4px 10px  #333);
-        font-size:200px;
-        margin-bottom:0;
-        margin-top:100px;
+        font-size:12em;
+        margin: 0 auto;
     }
 
-    h2{
+    p{
         color:#333;
-        margin-top:0;
+        margin:0 auto;
+        font-size:2em;
+        width:100%;
+        height:2em;
     }
 `
 
 function NotFound() {
     return <NoEncontrado>
-        <p>404</p>
-        <h2> Página no encontrada</h2>
+        <h2>404</h2>
+        <p> Página no encontrada</p>
     </NoEncontrado>
 }
 

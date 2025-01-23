@@ -6,30 +6,30 @@ const FooterEstilizado = styled.footer`
 display: flex;
 justify-content: center;
 align-items: center;
-padding: 1.1em 10em;
+padding: 1.1em ;
 background-color: #333333;
 gap: 30px;
 
-h2{
-    font-size: 18px;
-    font-weight: 400;
-    color:#ffffff;
-}
+    h2{
+        font-size: 20px;
+        font-weight: 400;
+        color:#ffffff;
+    }
 
-img {
-    width:40px;
-    border-radius:50%;
-    object-fit: cover;
-}
+    img {
+        width:40px;
+        border-radius:50%;
+        object-fit: cover;
+    }
 
-button{
-    width:50px;
-    height:50px;
-    border-radius:50%;
-    padding: 0;   
-    background-color: #333333;
-    justify-content: center;
-}
+    button{
+        width:50px;
+        height:50px;
+        border-radius:50%;
+        padding: 0;   
+        background-color: #333333;
+        justify-content: center;
+    }
 `
 
 function Footer() {
